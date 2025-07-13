@@ -1,6 +1,6 @@
 Package: PolisheR
 Title: Interfacing 'NaileR' with 'Shiny'
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: 
     person('Sébastien', 'Lê', role = c('aut', 'cre'), email = 'sebastien.le@institut-agro.fr',
     comment = c(ORCID = "0000-0001-8814-6714"))
@@ -8,12 +8,13 @@ Description: A very small package for more convenient use of 'NaileR'. You provi
 License: GPL (>= 2)
 Encoding: UTF-8
 RoxygenNote: 7.3.2
-Imports: dplyr, NaileR, shiny
-Depends: R (>= 3.5.0)
+Imports: dplyr, NaileR, shiny, shinycssloaders, FactoMineR, stringr
+Depends: R (>= 4.1.0)
 Suggests: SensoMineR
 NeedsCompilation: no
-Packaged: 2024-11-28 13:10:28 UTC; sebastienle
-Author: Sébastien Lê [aut, cre] (<https://orcid.org/0000-0001-8814-6714>)
+Packaged: 2025-07-13 10:59:46 UTC; sebastienle
+Author: Sébastien Lê [aut, cre] (ORCID:
+    <https://orcid.org/0000-0001-8814-6714>)
 Maintainer: Sébastien Lê <sebastien.le@institut-agro.fr>
 Repository: CRAN
-Date/Publication: 2024-11-29 09:20:06 UTC
+Date/Publication: 2025-07-13 11:10:02 UTC
