@@ -1,11 +1,11 @@
-d14ed9bda5ddff31eb3560db03e16783 *DESCRIPTION
+8e6724495c3ea480df726a9adb1b879b *DESCRIPTION
 da781f2166229d2d271561d8ad607325 *NAMESPACE
-864edc3438fbb5ac9dd4b4292256c5cf *NEWS.md
-24f5f3aac47b8dddf60dcc083197a940 *R/shiny_nail_catdes.R
-21d314b4d4d2b63680770d0586920f19 *R/shiny_nail_condes.R
+7fddff9a52b9741e91404c781cf25cc2 *NEWS.md
+d8e9acd0da378d5d9b7c7f6cce25d8df *R/shiny_nail_catdes.R
+d060f723d63b594753a2b4a07be1880c *R/shiny_nail_condes.R
 9624b8bf5161e86521b6bdbd82356f33 *R/shiny_nail_qda.R
 fd40858052919a078d00da6e4801ff7e *README.md
 32cb276b6dcaf4f2afe9e06868a42cfa *man/figures/README-pressure-1.png
-4ae7d5d35379d366b7d55546917a5819 *man/shiny_nail_catdes.Rd
+d3c12c7452cc96f0bc92d24929b5c457 *man/shiny_nail_catdes.Rd
 72ae0c38f6f44d80ac5a67d2a45ea7a5 *man/shiny_nail_condes.Rd
 8e8d64da44fa2236dc8abe598408d552 *man/shiny_nail_qda.Rd
